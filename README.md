@@ -1,3 +1,3 @@
 # MyLearning
 
-# Learn Data Structures using Java
+# Data Structures using Java
